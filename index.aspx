@@ -7,7 +7,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
     <title></title>
 </head>
-<body>
+<body style="background-image: url('https://localhost:44341/658737.jpg'); background-repeat: no-repeat; background-attachment: fixed; background-position: center top">
     <form id="form1" runat="server">
         <div>
         </div>
